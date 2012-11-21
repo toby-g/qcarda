@@ -1,0 +1,1 @@
+The QCarda project delivers a cohesive environment for formulating and organizing ideas.
